@@ -72,8 +72,8 @@ A **Dio (Digital Innovation One)** realizou um estudo prático sobre **Azure AI 
 ## Exemplo:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1ff1ea64-38c0-4714-a5e8-cd6d767a76c5" alt="exemplo2" width=50% />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/f12850ae-31df-4d7c-ace2-3dccc4e68e6e" alt="exemplo2" width=45% />
+  <img src="https://github.com/user-attachments/assets/7b6929b5-ef0b-4aa9-9407-7085ad8c03e1" alt="exemplo3" width=50% />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f12850ae-31df-4d7c-ace2-3dccc4e68e6e" alt="exemplo4" width=45% />
 </div>
 
 ---
